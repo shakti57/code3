@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+#Day31
 
 def reverse_string(input_string):
     return input_string[::-1]
