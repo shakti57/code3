@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-#day 32
+#day 32.
 
 import pandas as pd
 
