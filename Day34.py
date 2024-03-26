@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-#Day 34.
+# Day 34.
 
 def main():
     #  list of fruits
