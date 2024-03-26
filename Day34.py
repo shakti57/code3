@@ -5,7 +5,7 @@
 #Day 34.
 
 def main():
-    # Define a list of fruits
+    #  list of fruits
     fruits = ['apple', 'banana', 'orange', 'grape', 'kiwi']
 
     # Iterate over the list of fruits and print each fruit along with its index
